@@ -1,0 +1,32 @@
+[
+  {
+    "city": "New York",
+    "status": 200,
+    "file": "/Users/arturgataullin/PycharmProjects/PetProject/weather_tourism_pipeline/data/raw/openweather_api/2025/09/14/weather_new_york_20250914_1721.json",
+    "time": "2025-09-14T17:21:35.176914"
+  },
+  {
+    "city": "London",
+    "status": 200,
+    "file": "/Users/arturgataullin/PycharmProjects/PetProject/weather_tourism_pipeline/data/raw/openweather_api/2025/09/14/weather_london_20250914_1721.json",
+    "time": "2025-09-14T17:21:35.668590"
+  },
+  {
+    "city": "Munich",
+    "status": 200,
+    "file": "/Users/arturgataullin/PycharmProjects/PetProject/weather_tourism_pipeline/data/raw/openweather_api/2025/09/14/weather_munich_20250914_1721.json",
+    "time": "2025-09-14T17:21:36.178052"
+  },
+  {
+    "city": "Fukuoka",
+    "status": 200,
+    "file": "/Users/arturgataullin/PycharmProjects/PetProject/weather_tourism_pipeline/data/raw/openweather_api/2025/09/14/weather_fukuoka_20250914_1721.json",
+    "time": "2025-09-14T17:21:36.672346"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "status": 200,
+    "file": "/Users/arturgataullin/PycharmProjects/PetProject/weather_tourism_pipeline/data/raw/openweather_api/2025/09/14/weather_rio_de_janeiro_20250914_1721.json",
+    "time": "2025-09-14T17:21:37.153134"
+  }
+]

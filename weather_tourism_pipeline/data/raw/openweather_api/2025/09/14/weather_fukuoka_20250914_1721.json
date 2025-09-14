@@ -1,0 +1,50 @@
+{
+  "coord": {
+    "lon": 130.4181,
+    "lat": 33.6064
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "облачно с прояснениями",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 26.77,
+    "feels_like": 30.09,
+    "temp_min": 26.15,
+    "temp_max": 27.89,
+    "pressure": 1013,
+    "humidity": 90,
+    "sea_level": 1013,
+    "grnd_level": 995
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.03,
+    "deg": 120
+  },
+  "clouds": {
+    "all": 59
+  },
+  "dt": 1757859613,
+  "sys": {
+    "type": 1,
+    "id": 7998,
+    "country": "JP",
+    "sunrise": 1757797252,
+    "sunset": 1757842045
+  },
+  "timezone": 32400,
+  "id": 1863967,
+  "name": "Фукуока",
+  "cod": 200,
+  "_metadata": {
+    "collection_time": "2025-09-14T17:21:36.671241",
+    "source": "openweathermap.org",
+    "city_query": "Fukuoka"
+  }
+}

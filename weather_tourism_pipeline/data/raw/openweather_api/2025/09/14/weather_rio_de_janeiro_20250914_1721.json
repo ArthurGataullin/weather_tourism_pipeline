@@ -1,0 +1,50 @@
+{
+  "coord": {
+    "lon": -43.2075,
+    "lat": -22.9028
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "облачно с прояснениями",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 22.22,
+    "feels_like": 22.25,
+    "temp_min": 21.98,
+    "temp_max": 23.97,
+    "pressure": 1022,
+    "humidity": 67,
+    "sea_level": 1022,
+    "grnd_level": 1024
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 20
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1757859543,
+  "sys": {
+    "type": 1,
+    "id": 8429,
+    "country": "BR",
+    "sunrise": 1757839827,
+    "sunset": 1757882790
+  },
+  "timezone": -10800,
+  "id": 3451190,
+  "name": "Рио-де-Жанейро",
+  "cod": 200,
+  "_metadata": {
+    "collection_time": "2025-09-14T17:21:37.151160",
+    "source": "openweathermap.org",
+    "city_query": "Rio de Janeiro"
+  }
+}

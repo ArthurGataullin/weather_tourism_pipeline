@@ -1,0 +1,53 @@
+{
+  "coord": {
+    "lon": -0.1257,
+    "lat": 51.5085
+  },
+  "weather": [
+    {
+      "id": 501,
+      "main": "Rain",
+      "description": "дождь",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.94,
+    "feels_like": 15.63,
+    "temp_min": 14.95,
+    "temp_max": 16.86,
+    "pressure": 1007,
+    "humidity": 78,
+    "sea_level": 1007,
+    "grnd_level": 1004
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.63,
+    "deg": 150
+  },
+  "rain": {
+    "1h": 1.15
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1757859540,
+  "sys": {
+    "type": 2,
+    "id": 2075535,
+    "country": "GB",
+    "sunrise": 1757828038,
+    "sunset": 1757873905
+  },
+  "timezone": 3600,
+  "id": 2643743,
+  "name": "Лондон",
+  "cod": 200,
+  "_metadata": {
+    "collection_time": "2025-09-14T17:21:35.667318",
+    "source": "openweathermap.org",
+    "city_query": "London"
+  }
+}

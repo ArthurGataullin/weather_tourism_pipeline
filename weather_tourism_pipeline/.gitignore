@@ -1,0 +1,18 @@
+# MacOS
+.DS_Store
+
+# Виртуальное окружение
+.venv1/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Логи и временные файлы
+*.log
+

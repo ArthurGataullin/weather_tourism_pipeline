@@ -1,0 +1,51 @@
+{
+  "coord": {
+    "lon": 11.5755,
+    "lat": 48.1374
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "переменная облачность",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 17.73,
+    "feels_like": 17.57,
+    "temp_min": 16.29,
+    "temp_max": 18.13,
+    "pressure": 1019,
+    "humidity": 77,
+    "sea_level": 1019,
+    "grnd_level": 956
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.89,
+    "deg": 212,
+    "gust": 3.13
+  },
+  "clouds": {
+    "all": 46
+  },
+  "dt": 1757859604,
+  "sys": {
+    "type": 2,
+    "id": 2002112,
+    "country": "DE",
+    "sunrise": 1757825363,
+    "sunset": 1757870965
+  },
+  "timezone": 7200,
+  "id": 2867714,
+  "name": "Мюнхен",
+  "cod": 200,
+  "_metadata": {
+    "collection_time": "2025-09-14T17:21:36.174840",
+    "source": "openweathermap.org",
+    "city_query": "Munich"
+  }
+}

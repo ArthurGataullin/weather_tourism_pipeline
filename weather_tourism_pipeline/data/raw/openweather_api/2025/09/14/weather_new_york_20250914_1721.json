@@ -1,0 +1,50 @@
+{
+  "coord": {
+    "lon": -74.006,
+    "lat": 40.7143
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "ясно",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 23.22,
+    "feels_like": 23.32,
+    "temp_min": 21.64,
+    "temp_max": 24.61,
+    "pressure": 1017,
+    "humidity": 66,
+    "sea_level": 1017,
+    "grnd_level": 1016
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.57,
+    "deg": 10
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1757859664,
+  "sys": {
+    "type": 1,
+    "id": 4610,
+    "country": "US",
+    "sunrise": 1757846159,
+    "sunset": 1757891237
+  },
+  "timezone": -14400,
+  "id": 5128581,
+  "name": "Нью-Йорк",
+  "cod": 200,
+  "_metadata": {
+    "collection_time": "2025-09-14T17:21:35.175856",
+    "source": "openweathermap.org",
+    "city_query": "New York"
+  }
+}
